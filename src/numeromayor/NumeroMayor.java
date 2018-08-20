@@ -5,6 +5,8 @@
  */
 package numeromayor;
 
+// Importo el paquete java.util para utilizar la clase Scanner
+import java.util.*;
 
 
 /**
@@ -12,5 +14,9 @@ package numeromayor;
  * @author Amarico
  */
 public class NumeroMayor {
+    
+    
+    
+    
     
 }
