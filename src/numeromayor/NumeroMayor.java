@@ -48,7 +48,7 @@ public class NumeroMayor {
 
         } else if ((numero2 > numero1) && (numero2 > numero3)) {
 
-            System.out.println("El núero mayor es el : " + numero2);
+            System.out.println("El número mayor es el : " + numero2);
 
         }else
             
