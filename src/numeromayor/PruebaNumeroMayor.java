@@ -16,6 +16,10 @@ public class PruebaNumeroMayor {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+
+        //Creo un objeto de la clase NumeroMayor
+        NumeroMayor numeros = new NumeroMayor();
+
     }
-    
+
 }
