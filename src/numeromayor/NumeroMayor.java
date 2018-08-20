@@ -15,6 +15,14 @@ import java.util.*;
  */
 public class NumeroMayor {
     
+    // Declaro tres variables de tipo entero
+    
+    int numero1;
+    int numero2;
+    int numero3;
+    
+    
+    
     
     
     
