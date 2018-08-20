@@ -18,6 +18,8 @@ public class NumeroMayor {
     int numero1;
     int numero2;
     int numero3;
+    
+    Scanner entrada = new Scanner(System.in);
 
     public void ejecutaPrograma() {
 
@@ -25,6 +27,20 @@ public class NumeroMayor {
     }
     // Método imprimeResultado
     public void imprimeResultado() {
+        
+        System.out.println("Introduce tres numeros y te dire cuál es el mayor");
+        
+        System.out.println("Introduce el primer número: ");
+        
+        numero1 = entrada.nextInt();
+        
+        System.out.println("Introduce el segundo número: ");
+        
+        numero2 = entrada.nextInt();
+        
+        System.out.println("Introduce el tercer número: ");
+        
+        numero3 = entrada.nextInt();
 
         if ((numero1 > numero2) && (numero1 > numero3)) {
 
