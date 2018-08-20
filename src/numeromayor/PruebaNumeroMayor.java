@@ -19,7 +19,11 @@ public class PruebaNumeroMayor {
 
         //Creo un objeto de la clase NumeroMayor
         NumeroMayor numeros = new NumeroMayor();
-
+        
+        //Llamo al método imprimeResultado de la clase NumeroMayor
+        
+        
+        numeros.imprimeResultado();
     }
 
 }
